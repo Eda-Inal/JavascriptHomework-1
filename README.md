@@ -1,2 +1,3 @@
 # JavascriptHomework-1
-this is the first javascript homework at patika
+
+This is the first javascript homework at patika dev.
